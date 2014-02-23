@@ -31,6 +31,13 @@
 <p>GPG key ID: F89A66F7</p>
 <p></p>GPG fingerprint: F604 4756 0D3A 07EB DE9B 1CB6 3C3B 5A81 F89A 66F7</p>
 
+<h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
 <h1>Writing</h1>
 <h2>Academic</h2>
 <p>“Suffer the Little Children: Irish Revivalism in the Fairy Tales of Oscar Wilde.” <em>Children and Childhood in Irish Society</em>. Eds. Maria Luddy and James Smith. Forthcoming from Four Courts Press, 2014.</p>
