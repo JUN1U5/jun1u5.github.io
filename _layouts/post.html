@@ -1,17 +1,40 @@
----
-layout: default
----
-<div id="post">
-  <h2><a href="{{ page.url }}">
-    {{ page.title }}
-  </a></h2>
-  <div id="date">published {{ page.date | date_to_string }}</div>
-  {{ content }}
-  <hr />
-  
- <!-- add disqus here 
-  <div id="disqus">
-    <div id=" etc from disqus
-  </div> -->
-    
-  </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Brandon Jernigan" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/stylsheets/post.css">
+  <link rel="stylesheet" href="/stylesheets/post.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,800,400' rel='stylesheet' type='text/css'>
+  <link rel="image_src" href="{{ page.thumbnail }}" />
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+    <div class="site">
+<div class = "title">
+<p><a href="http://twitter.com/JUN1U5"><img src="http://icons.iconarchive.com/icons/danleech/simple/64/twitter-icon.png"></a>
+<a href="http://www.linkedin.com/in/brandonjernigan"> <img src="http://icons.iconarchive.com/icons/danleech/simple/64/linkedin-icon.png"></a>
+<a href="https://plus.google.com/u/0/116730629995462434910/"><img src="http://icons.iconarchive.com/icons/danleech/simple/64/google-plus-icon.png"></a>
+<a class="extra" href="/">&nbsp; &para; JUN1U5</a>
+</p>
+</div>
+
+      </head>
+
+<body id="{{ page.tags }}">
+  <section id="content">
+    <header>
+      <h1><a href="#">{{ page.title }}</a></h1>
+    </header>
+    <article>
+      {{ content }}
+    </article>
+    <footer>
+<!--  — <a href="http://twitter.com/JUN1U5">Brandon Jernigan</a> -->
+    </footer>
+  </section>
+</body>
+</html>
+
+<!-- post.css and _layout adapted from http://litanyagainstfear.com -->
