@@ -75,6 +75,7 @@ body {
 .center {
   margin: 0 auto;
   display: block; }
+<<<<<<< HEAD
 
 <!-- adding site title stuff -->
 
@@ -105,6 +106,7 @@ body {
     color: #ffffff;
     text-decoration: none;
     margin-left: 1em;
+    float:left;
   }
 
   .site .title a.extra:hover {

@@ -106,10 +106,9 @@ body {
     color: #ffffff;
     text-decoration: none;
     margin-left: 1em;
+    float:left;
   }
 
   .site .title a.extra:hover {
     color: black;
   }
-=======
->>>>>>> 49ce345d22f769c852d2931c0a01237c5f86e215
