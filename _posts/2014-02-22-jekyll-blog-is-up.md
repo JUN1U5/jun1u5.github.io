@@ -3,9 +3,7 @@ layout: post
 title: I'm trying out Jekyll!
 ---
 
-<section>
-<h1>Testing</h1>
+h1. {{ page.title }}
 
 I'm testing out a new jekyll blog on github pages.
 
-</section>
