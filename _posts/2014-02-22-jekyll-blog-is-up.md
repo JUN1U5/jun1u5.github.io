@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: I'm trying out Jekyll!
 ---
 
