@@ -16,12 +16,4 @@ Further weekend reading:
 *   [Short legal explanation](http://cyberlaw.stanford.edu/node/5833) of the decision from Stanford law professor, Anthony Falzone.<
 *   ["The shady one-man corporation that's destroying hip-hop"](http://www.slate.com/id/2153961/), great piece on Slate.com, explaining "the sample troll" and the importance of sampling in hip-hop)
 *   DJ Spooky on ["Sampling and the Creative Act"](http://www.realitysandwich.com/in_through_out_door_sampling_and_creative_act)
-*   Below, 9th Wonder on the art of sampling at Duke.
-
-<iframe 
-  width="420" 
-  height="315" 
-  src="http://www.youtube.com/embed/YLg5qwfhHnA"
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+*   9th Wonder on the [art of sampling, via Duke University](http://www.youtube.com/embed/YLg5qwfhHnA).
