@@ -8,18 +8,6 @@
   <link rel="stylesheet" href="/stylesheets/post.css">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,800,400' rel='stylesheet' type='text/css'>
   <link rel="image_src" href="{{ page.thumbnail }}" />
-
-{% if page.video_url %}
-<div class="less-fancy-video-header">
-<iframe
-  class="yt-embed"
-  src="{{ page.video_url }}?&rel=0&showinfo=0&autohide=1&hd=1&wmode=transparent"
-  frameborder="0"
-  allowfullscreen="true"
-></iframe>
-</div>
-{% endif %}  
-  
 </head>
 
 <body id="{{ page.tags }}">
