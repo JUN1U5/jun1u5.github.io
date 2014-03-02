@@ -10,6 +10,17 @@
   <link rel="image_src" href="{{ page.thumbnail }}" />
 </head>
 
+{% if page.video_url %}
+<div class="less-fancy-video-header">
+<iframe
+  class="yt-embed"
+  src="{{ page.video_url }}?&rel=0&showinfo=0&autohide=1&hd=1&wmode=transparent"
+  frameborder="0"
+  allowfullscreen="true"
+</iframe>
+</div>
+{% endif %}
+
 <body id="{{ page.tags }}">
   <section id="content">
     <header>
