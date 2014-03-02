@@ -1,36 +1,27 @@
 ---
 layout: post
 title: Great Legal News for the Art of Sampling
+video_url: http://www.youtube.com/embed/YLg5qwfhHnA
 ---
 
-Great news for those of you who love to sample (and those of you who love sample-style hip-hop from [DJ Shadow][1] to [the Alchemist][2], from [Ghostface][3] to [Kanye][4]): the sample-stifling precedent of [Bridgeport Music v. Dimension Films][5] has been [rejected by the New York Supreme Court][6].  
+Great news for those of you who love to sample (and those of you who love sample-style hip-hop from DJ Shadow to the Alchemist, from Ghostface to Kanye: the sample-stifling precedent of [Bridgeport Music v. Dimension Films](http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films) has been [rejected by the New York Supreme Court](http://lessig.org/mt/mt-tb.cgi/2256).  
   
-In 2005, after a federal judge found that a two-second Funkadelic guitar chord used (without permission or compensation) in NWA's ["100 Miles and Runnin"][7] did not violate copyright law, an appeals court reversed the decision. Barely concealing its contempt for hip-hop, [the court ordered][8]: "Get a license or do not sample. We do not see this as stifling creativity in any significant way."  
+In 2005, after a federal judge found that a two-second Funkadelic guitar chord used (without permission or compensation) in NWA's ["100 Miles and Runnin"](http://www.youtube.com/watch?v=B6YOq2xn3k4) did not violate copyright law, an appeals court reversed the decision. Barely concealing its contempt for hip-hop, [the court ordered](http://www.usatoday.com/tech/news/techpolicy/2004-09-08-sampling-ruling_x.htm): "Get a license or do not sample. We do not see this as stifling creativity in any significant way."  
   
-Recently, the litigious [Yoko Ono attempted to block [_Expelled: No Intelligence_][9] because it contained 15 seconds of Lennon's "[Imagine."][10] In defense of the straightforward usage of Lennon's song in the "intelligent design" film, the court's decision _rejected_ the Bridgeport/NWA precedent, which held that _any sampling of music--no matter how minimal--violated copyright law._
+Recently, the litigious [Yoko Ono attempted to block _Expelled: No Intelligence_](http://www.reuters.com/article/entertainmentNews/idUSN2320158220080423) because it contained 15 seconds of Lennon's "Imagine." In defense of the straightforward usage of Lennon's song in the "intelligent design" film, the court's decision rejected the Bridgeport/NWA precedent, which held that any sampling of music--no matter how minimal--violated copyright law.
   
-By the way, the Bridgeport back-story gets more insidious. Apparently, Bridgeport (the music corporation) is simply one man, a notorious "sample troll" who brings suit after suit -- [against Jay-Z recently][11] -- in order to extort money from old rights. What's more? [George Clinton has explained that his signature was forged by Bridgeport on many of the contracts][12] for Funkdelic's songs, including ["Get Off your Ass and Jam"][13] (the track in the NWA case).  
+By the way, the Bridgeport back-story gets more insidious. Apparently, Bridgeport (the music corporation) is simply one man, a notorious "sample troll" who brings suit after suit -- [against Jay-Z recently](http://hiphoparchive.org/thecircle/2006/12/01/jay-z-versus-the-sample-troll/) -- in order to extort money from old rights. What's more? [George Clinton has explained that his signature was forged by Bridgeport on many of the contracts](http://www.techdirt.com/blog.php?company=bridgeport) for Funkdelic's songs, including ["Get Off your Ass and Jam"](http://www.youtube.com/watch?v=siLtUWq0xio) (the track in the NWA case).  
   
 Further weekend reading:  
-*   [Short legal explanation][14] of the decision from Stanford law professor, Anthony Falzone.<
-*   ["The shady one-man corporation that's destroying hip-hop"][15], great piece on Slate.com, explaining "the sample troll" and the importance of sampling in hip-hop)
-*   DJ Spooky on ["Sampling and the Creative Act"][16]
+*   [Short legal explanation](http://cyberlaw.stanford.edu/node/5833) of the decision from Stanford law professor, Anthony Falzone.<
+*   ["The shady one-man corporation that's destroying hip-hop"](http://www.slate.com/id/2153961/), great piece on Slate.com, explaining "the sample troll" and the importance of sampling in hip-hop)
+*   DJ Spooky on ["Sampling and the Creative Act"](http://www.realitysandwich.com/in_through_out_door_sampling_and_creative_act)
 *   Below, 9th Wonder on the art of sampling at Duke.
-<span style="font-size: 100%;"><object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/YLg5qwfhHnA&amp;hl=en&amp;fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/YLg5qwfhHnA&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></span>
 
- [1]: http://www.djshadow.com/
- [2]: http://alchemistbeats.blogspot.com/
- [3]: http://www6.defjam.com/site/artist.php?artist_id=485
- [4]: http://www.kanyeuniversecity.com/
- [5]: http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films
- [6]: http://lessig.org/mt/mt-tb.cgi/2256
- [7]: http://www.youtube.com/watch?v=B6YOq2xn3k4
- [8]: http://www.usatoday.com/tech/news/techpolicy/2004-09-08-sampling-ruling_x.htm
- [9]: http://www.reuters.com/article/entertainmentNews/idUSN2320158220080423
- [10]: http://www.youtube.com/watch?v=-b7qaSxuZUg
- [11]: http://hiphoparchive.org/thecircle/2006/12/01/jay-z-versus-the-sample-troll/
- [12]: http://www.techdirt.com/blog.php?company=bridgeport
- [13]: http://www.youtube.com/watch?v=siLtUWq0xio
- [14]: http://cyberlaw.stanford.edu/node/5833
- [15]: http://www.slate.com/id/2153961/
- [16]: http://www.realitysandwich.com/in_through_out_door_sampling_and_creative_act
+<iframe 
+  width="420" 
+  height="315" 
+  src="http://www.youtube.com/embed/YLg5qwfhHnA"
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
