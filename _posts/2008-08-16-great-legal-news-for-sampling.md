@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Great Legal News for the Art of Sampling
-video_url: http://www.youtube.com/embed/YLg5qwfhHnA
 ---
 
 Great news for those of you who love to sample (and those of you who love sample-style hip-hop from DJ Shadow to the Alchemist, from Ghostface to Kanye: the sample-stifling precedent of [Bridgeport Music v. Dimension Films](http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films) has been [rejected by the New York Supreme Court](http://lessig.org/mt/mt-tb.cgi/2256).  
