@@ -3,9 +3,8 @@ layout: post
 title: Musical Accompaniment for Banned Books
 ---
 
-***
 This post was resurrected from a defunct music blog I worked on from 2008-2010. The blog wasn't successful, but I always enjoyed this post.
-***
+- - -
 
 It's [Banned Books Week](http://everybodyslibraries.com/2008/09/29/why-banned-books-week-matters/), an annual celebration of artistic expression (the freedom to write) and the freedom of the press (the freedom to read), observed this year by [Amnesty International](http://www.amnestyusa.org/events/banned-books-week/page.do?id=1101492&n1=5&n2=50&n3=1611), the [American Library Association](http://www.ala.org/ala/aboutala/offices/oif/bannedbooksweek/bannedbooksweek.cfm), and others. This isn't just a ploy to get teenagers reading old books (as satirized by [the Onion](http://www.theonion.com/content/node/28619) -- it's a chance to challenge yourself and challenge those around you by reading stuff others would rather you didn't. Hey, finding those [books deemed unfit for minors](http://onlinebooks.library.upenn.edu/banned-books.html#nowrite) is pretty much what got me through high school. So, rather than pick up the relatively safe (but still naughty) Canterbury Tales or Fanny Hill, here's my list of 5 riskier and more entertaining choices, in no particular order:
 
