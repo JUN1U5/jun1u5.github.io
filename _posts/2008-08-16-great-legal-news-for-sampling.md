@@ -3,6 +3,10 @@ layout: post
 title: Great Legal News for the Art of Sampling
 ---
 
+*This post was resurrected from a defunct music blog I worked on from 2008-2010. Despite the temporary hope of the court ruling, the case hasn't been influential in bolstering fair use, and sampling in hip-hop has only become more endangered. Recently, on the 25th anniversary of* 3 Feet High and Rising, *De La Soul [gave away their complete back catalog](http://www.businessweek.com/articles/2014-02-14/why-de-la-soul-is-giving-away-all-of-its-music-for-free) due in large part to Prince Paul's brilliant sampling (and the complex rights clearance issues that have ensued).*
+
+- - -
+
 Great news for those of you who love to sample (and those of you who love sample-style hip-hop from DJ Shadow to the Alchemist, from Ghostface to Kanye: the sample-stifling precedent of [Bridgeport Music v. Dimension Films](http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films) has been [rejected by the New York Supreme Court](http://lessig.org/mt/mt-tb.cgi/2256).  
   
 In 2005, after a federal judge found that a two-second Funkadelic guitar chord used (without permission or compensation) in NWA's ["100 Miles and Runnin"](http://www.youtube.com/watch?v=B6YOq2xn3k4) did not violate copyright law, an appeals court reversed the decision. Barely concealing its contempt for hip-hop, [the court ordered](http://www.usatoday.com/tech/news/techpolicy/2004-09-08-sampling-ruling_x.htm): "Get a license or do not sample. We do not see this as stifling creativity in any significant way."  
