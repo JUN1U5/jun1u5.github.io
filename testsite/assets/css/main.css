@@ -119,7 +119,7 @@ border-bottom-width: 0px;
 }
 
 .si i {
-	font-size: 40px;
+	font-size: 40px;w
 	padding: 20px;
 }
 
@@ -322,7 +322,7 @@ p.capitalize:first-letter {
 /* ================== MAIN WRAP SECTIONS ================== */
 
 #headerwrap {
-	background: url(../img/warehouse.jpg) no-repeat center top;
+	background: url(../img/bg01.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top: 50px;
 	background-attachment: relative;
