@@ -37,7 +37,7 @@
             // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
             var mapOptions = {
                 // How zoomed in you want the map to start at (always required)
-                zoom: 16,
+                zoom: 13,
                 
                 scrollwheel: false,
 
@@ -80,7 +80,7 @@
     	<div class="container">
 			<div class="row centered">
 				<div class="col-lg-8 col-lg-offset-2 mt">
-					<h1 class="animation slideDown">Izz the Unknown <i class="fa fa-rocket"></i> </b> Fresh Hip Hop, Live from Nowheresville</h1>
+					<h1 class="animation slideDown">Izz the Unknown <i class="fa fa-rocket"></i><br>Fresh Hip Hop, Live from Nowheresville</h1>
     				<p class="mt"><button type="button" class="btn btn-cta btn-lg">MUSIC</button><button type="button" class="btn btn-cta btn-lg">FOLLOW</button><button type="button" class="btn btn-cta btn-lg">CONTACT</button></p>
 				</div>
 				
@@ -100,7 +100,7 @@
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-4 desc">
-				<a class="b-link-fade b-animate-go" href="#"><img width="350" src="assets/img/team/izz.jpg" alt="" />
+				<a class="b-link-fade b-animate-go" href="#"><img class="img-responsive" width="350" src="assets/img/team/izz.jpg" alt="" />
 					<div class="b-wrapper">
 					  	<h4 class="b-from-left b-animate b-delay03">Project 1</h4>
 					  	<p class="b-from-right b-animate b-delay03">View Details</p>
@@ -109,7 +109,7 @@
 				<p>Project 1 - <i class="fa fa-headphones"></i></p>
 			</div>
 			<div class="col-lg-4 desc">
-				<a class="b-link-fade b-animate-go" href="#"><img width="350" src="assets/img/portfolio/sodapop.jpeg" alt="" />
+				<a class="b-link-fade b-animate-go" href="#"><<img class="img-responsive" width="350" src="assets/img/portfolio/sodapop.jpeg" alt="" />
 					<div class="b-wrapper">
 					  	<h4 class="b-from-left b-animate b-delay03">Project 2</h4>
 					  	<p class="b-from-right b-animate b-delay03">View Details</p>
@@ -118,7 +118,7 @@
 				<p>PROJECT 2 - <i class="fa fa-headphones"></i></p>
 			</div>
 			<div class="col-lg-4 desc">
-				<a class="b-link-fade b-animate-go" href="#"><img width="350" src="assets/img/portfolio/unknown.jpeg" alt="" />
+				<a class="b-link-fade b-animate-go" href="#"><img class="img-responsive" width="350" src="assets/img/portfolio/unknown.jpeg" alt="" />
 					<div class="b-wrapper">
 					  	<h4 class="b-from-left b-animate b-delay03">Project 3</h4>
 					  	<p class="b-from-right b-animate b-delay03">View Details</p>
@@ -203,21 +203,21 @@
 					<p><i class="fa fa-music"></i></p>
 					<h1>36.99</h1>
 					<hr>
-					<h4>Tracks Dropped</h4>
+					<h4><a href="https://soundcloud.com/izzunknown/">Tracks Dropped</a></h4>
 				</div>
 
 				<div class="col-lg-3">
 					<p><i class="fa fa-tumblr"></i></p>
 					<h1>71.28</h1>
 					<hr>
-					<h4>Posts</h4>
+					<h4><a href="http://izztheunknown.tumblr.com">Posts</a></h4>
 				</div>
 
 				<div class="col-lg-3">
 					<p><i class="fa fa-twitter"></i></p>
 					<h1>6,812</h1>
 					<hr>
-					<h4>Tweets</h4>
+					<h4><a href="https://twitter.com/izz_101">Tweets</a></h4>
 				</div>
 			</div><!-- /row -->
 		</div><!-- /container -->
@@ -277,7 +277,7 @@
 		<div class="container">
 	    	<div class="row mt">
 	    		<div class="col-lg-4 col-lg-offset-4 centered">
-	    			<h3>Bio: Unknown. Location: Nowheresville, North Carolina. Status: Small Town, Expanding Mind.<i class="fa fa-crosshairs"></i></h3>
+	    			<h3>Bio: Unknown. Location: Undisclosed.</h3>
 	    			<hr>
 	    		</div>
 	    	</div><! --/row -->
@@ -290,7 +290,7 @@
 	<div id="cta-bar">
 		<div class="container">
 			<div class="row centered">
-				<a href="#"><h4>Book Izz the Unknown for Your Town! <a href="mailto:booking@izztheunknown.com">Email booking@izztheunknown.com</a></h4></a>
+				<a href="mailto:booking@izztheunknown.com"><h4>Book Izz the Unknown for Your Town!</h4></a>
 			</div>
 		</div><!-- /container -->
 	</div><!-- /cta-bar -->
@@ -305,43 +305,30 @@
 				<div class="col-lg-3">
 					<h4>Contact</h4>
 					<p>
-						<i class="fa fa-user"></i>izz@izztheunknown.com<br/>
-						<i class="fa fa-envelope-o"></i> booking@izztheunknown.com
+						<i class="fa fa-user"></i>&nbsp izz@izztheunknown.com<br/>
+						<i class="fa fa-envelope-o"></i>&nbsp booking@izztheunknown.com
 					</p>
 				</div><! --/col-lg-3 -->
 				
 			<!-- TWEETS -->
+				
 				<div class="col-lg-3">
-					<h4>Recent Tweets</h4>
-					<div id="showtweets"></div>
-						<script>
-							twitterFetcher.fetch('454732603208110080', 'showtweets', 2, true, false, false, '', false, handleTweets, false);
+					
+					<a class="twitter-timeline" href="https://twitter.com/Izz_101" data-widget-id="454732603208110080">Tweets by @Izz_101</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-							function handleTweets(tweets){
-							    var x = tweets.length;
-							    var n = 0;
-							    var element = document.getElementById('showtweets');
-							    var html = '<ul>';
-							    while(n < x) {
-							      html += '<li>' + tweets[n] + '</li>';
-							      n++;
-							    }
-							    html += '</ul>';
-							    element.innerHTML = html;
-							}					
-						</script>
-					<p>Follow <b>@Izz_101</b></p>
 				</div><!-- /col-lg-3 -->
 
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
+		
 				</div><!-- /col-lg-3 -->
 				
 				
 				<!-- NEW PROJECT -->
 				<div class="col-lg-3">
 					<h4>Locally Grown Hip Hop</h4>
-					<a href="#"><img class="img-responsive" src="http://www.ncbeermonth.com/files/img/maps/icon-map-greensboro.png" alt="Small Town North Carolina" /></a>
+					<a href="#"><img class="img-responsive" src="assets/img/icon-map-greensboro.png" alt="Small Town North Carolina" /></a>
 				</div><!-- /col-lg-3 -->
 				
 				
