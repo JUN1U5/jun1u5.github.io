@@ -54,10 +54,10 @@
           ['US-WI', 27],
           ['US-WV', 1],
           ['US-WY', 1]
-          ['CA', 10]
+          ['CA-BC', 10]
         ]);
 
-        var options = {};
+        var options = {'resolution':'provinces'};
 
         var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
         chart.draw(data, options);
