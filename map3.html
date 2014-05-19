@@ -2,10 +2,9 @@
   <head>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript">
-      google.load("visualization", "1", {packages:["treemap"]});
+      google.load("visualization", "1", {packages:["corechart"]});
       google.setOnLoadCallback(drawChart);
       function drawChart() {
-        // Create and populate the data table.
         var data = google.visualization.arrayToDataTable([
           ['Country', 'Editors'],
           ['Germany', 3],
@@ -29,19 +28,18 @@
           ['Switzerland', 2]
         ]);
 
-        // Create and draw the visualization.
-        var tree = new google.visualization.TreeMap(document.getElementById('chart_div'));
-        tree.draw(data, {
-          minColor: '#f00',
-          midColor: '#ddd',
-          maxColor: '#0d0',
-          headerHeight: 15,
-          fontColor: 'black',
-          showScale: true});
-        }
+        var options = {
+          title: 'Correlation between life expectancy, fertility rate and population of some world countries (2010)',
+          hAxis: {title: 'Life Expectancy'},
+          vAxis: {title: 'Fertility Rate'},
+          bubble: {textStyle: {fontSize: 11}}
+        };
+
+        var chart = new google.visualization.BubbleChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
     </script>
   </head>
-
   <body>
     <div id="chart_div" style="width: 900px; height: 500px;"></div>
   </body>
