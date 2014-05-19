@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["treemap"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        // Create and populate the data table.
+        var data = google.visualization.arrayToDataTable([
+          ['Country', 'Editors'],
+          ['Germany', 3],
+          ['Canada', 8],
+          ['Israel', 2],
+          ['France', 3],
+          ['Japan', 2],
+          ['United Kingdom', 6],
+          ['India', 3],
+          ['United States', 1008],
+          ['Brazil', 1],
+          ['Malaysia', 1],
+          ['Singapore', 1],
+          ['Belize', 1],
+          ['Estonia', 1],
+          ['Italy', 1],
+          ['Peru', 1],
+          ['Turkmenistan', 1],
+          ['Australia', 1],
+          ['Netherlands', 1],
+          ['Switzerland', 2]
+        ]);
+
+        // Create and draw the visualization.
+        var tree = new google.visualization.TreeMap(document.getElementById('chart_div'));
+        tree.draw(data, {
+          minColor: '#f00',
+          midColor: '#ddd',
+          maxColor: '#0d0',
+          headerHeight: 15,
+          fontColor: 'black',
+          showScale: true});
+        }
+    </script>
+  </head>
+
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
