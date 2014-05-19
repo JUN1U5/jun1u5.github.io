@@ -5,7 +5,7 @@
      google.load('visualization', '1', {'packages': ['geochart']});
      google.setOnLoadCallback(drawRegionsMap);
 
-      function drawRegionsMap() {
+      function drawMarkersMap() {
         var data = google.visualization.arrayToDataTable([
           ['Province', 'Editors'],
           ['US-AL', 4],
@@ -56,10 +56,15 @@
           ['US-WY', 1]
         ]);
 
-        var options = {'region':'US','resolution':'provinces'};
+         var options = {
+        sizeAxis: { minValue: 0, maxValue: 100 },
+        region: '155', // Western Europe
+        displayMode: 'markers',
+        colorAxis: {colors: ['#e7711c', '#4374e0']} // orange to blue
+      };
 
-        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
+      var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
     };
     </script>
   </head>
