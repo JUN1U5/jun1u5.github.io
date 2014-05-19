@@ -58,18 +58,9 @@
 
         var options = {'region':'US','resolution':'provinces'};
 
-    
-       var chart_div = document.getElementById('chart_div');
-      var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
-
-      // Wait for the chart to finish drawing before calling the getImageURI() method.
-      google.visualization.events.addListener(chart, 'ready', function () {
-        chart_div.innerHTML = '<img src="' + chart.getImageURI() + '">';
-        console.log(chart_div.innerHTML);
-      });
-
-      chart.draw(data, options);
-    
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+    };
     </script>
   </head>
   <body>
