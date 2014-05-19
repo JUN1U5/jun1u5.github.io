@@ -29,18 +29,16 @@
         ]);
 
         var options = {
-          title: 'Correlation between life expectancy, fertility rate and population of some world countries (2010)',
-          hAxis: {title: 'Life Expectancy'},
-          vAxis: {title: 'Fertility Rate'},
-          bubble: {textStyle: {fontSize: 11}}
+          title: 'Around the World',
+          pieHole: 0.4,
         };
 
-        var chart = new google.visualization.BubbleChart(document.getElementById('chart_div'));
+        var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
         chart.draw(data, options);
       }
     </script>
   </head>
   <body>
-    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+    <div id="donutchart" style="width: 900px; height: 500px;"></div>
   </body>
 </html>
