@@ -1,0 +1,353 @@
+.dashboardbuttons .leftbutton {
+    float: left;
+    width: 188px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc
+}
+
+.dashboardbuttons .rightbutton {
+    float: left;
+    width: 188px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc
+}
+
+.dashboardbuttons .twocolumnbutton {
+    float: left;
+    width: 418px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc
+}
+
+.dashboardbuttons .twocolumnbutton th {
+    background-color: #fff;
+    color: #000;
+    text-align: center
+}
+
+.dashboardbuttons .bottombutton {
+    border-bottom: 0
+}
+
+.dashboardbuttons .documents {
+    font-size: .7em
+}
+
+.dashboardbuttons h3#current-bonus {
+    padding-bottom: 15px;
+    background: url(../images/layout/ajebank_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#quality-score {
+    padding-bottom: 15px;
+    background: url(../images/layout/referralrewards_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#work-summary {
+    padding-bottom: 15px;
+    background: url(../images/layout/referralrewards_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#contact-manager {
+    padding-bottom: 15px;
+    background: url(../images/layout/submitatestimonial_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#customer-success {
+    padding-bottom: 15px;
+    background: url(../images/layout/submitatestimonial_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#feedback {
+    padding-bottom: 15px;
+    background: url(../images/layout/customerpoll_title_icon.gif) top left no-repeat
+}
+
+.dashboardbuttons h3#documents {
+    padding-bottom: 15px;
+    background: url(../images/layout/joinagroup_title_icon.gif) top left no-repeat
+}
+
+h3#work-summary.icontitle {
+    margin: 0
+}
+
+.assignmentqueue {
+    font-size: 1.2em;
+    line-height: 1.2em
+}
+
+.assignmentqueue table, .assignmentqueue table th, .assignmentqueue table td {
+    border: 0;
+    padding: 5px 0 0 0
+}
+
+.yoursubmissions {
+    float: left;
+    width: 896px;
+    padding: 20px;
+    margin: 0 0 20px 0;
+    background: #eaf6f9;
+    border: 2px solid #aad7e8;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+    line-height: 1.5em
+}
+
+h3.icontitle {
+    font-size: 1em;
+    color: #003f5f;
+    padding: 8px 0 8px 50px;
+    margin: 0 0 15px 0
+}
+
+h3#YourSubmissions {
+    background: url(../images/layout/yoursubmissions_title_icon.gif) top left no-repeat
+}
+
+.yoursubmissions table {
+    float: left;
+    width: 896px;
+    margin: 0 0 10px 0
+}
+
+.yoursubmissions table th {
+    font-size: .7em;
+    padding: 0 10px 0 0;
+    color: #666;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: normal;
+    background-color: #eaf6f9
+}
+
+.yoursubmissions table tr.titles {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    font-weight: 700
+}
+
+.yoursubmissions table td {
+    padding: 0 5px 0 0;
+    font-size: .8em
+}
+
+.linkright {
+    float: right;
+    margin: 10px;
+    font-size: 1em
+}
+
+.green-arrow-button {
+    background: url(../images/layout/green-arrow-button.png) no-repeat -14px -20px;
+    height: 40px;
+    width: 154px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 8px 0 0 19px;
+    margin: 0 0 0 6px;
+    cursor: pointer
+}
+
+.green-arrow-button a:link, .green-arrow-button a:visited, .green-arrow-button a:active {
+    color: white
+}
+
+#BankAndGroupsWrapper {
+    position: relative;
+    float: left
+}
+
+div.hr {
+    border-bottom: 3px solid #ddd;
+    margin-top: 20px;
+    margin-bottom: 10px
+}
+
+.announcementscontainer {
+    float: left;
+    position: relative;
+    width: 460px;
+    margin: 0 20px 20px 0
+}
+
+.announcementstop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 460px;
+    height: 50px;
+    z-index: 9999;
+    display: block;
+    background: url(../images/layout/announcements_top.gif) top left no-repeat #fff
+}
+
+.announcements {
+    width: 420px;
+    padding: 69px 19px 19px 19px;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    z-index: 1000
+}
+
+.announcementstop h3 {
+    float: left;
+    padding: 13px 0 0 20px;
+    color: #003f5f;
+    font-size: 1em
+}
+
+.announcement {
+    float: left;
+    width: 420px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #ccc
+}
+
+.messagescontainer {
+    float: left;
+    position: relative;
+    width: 460px;
+    margin: 0 0 20px 0
+}
+
+.messagestop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 460px;
+    height: 50px;
+    z-index: 9999;
+    display: block;
+    background: url(../images/layout/announcements_top.gif) top left no-repeat #fff
+}
+
+.messages {
+    width: 420px;
+    padding: 69px 19px 19px 19px;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    z-index: 1000
+}
+
+.messagestop h3 {
+    float: left;
+    padding: 13px 0 0 20px;
+    color: #003f5f;
+    font-size: 1em
+}
+
+.message {
+    float: left;
+    width: 420px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #ccc
+}
+
+.dashboardbuttons {
+    position: relative;
+    float: left;
+    width: 458px;
+    padding: 0;
+    margin: 0 0 20px 0;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px
+}
+
+.dashboardbuttons h3 {
+    font-size: .9em
+}
+
+.dashboardbuttons .label, .dashboardbuttons label {
+    text-transform: uppercase;
+    font-size: .7em;
+    margin: 0 0 2px 0;
+    padding: 0
+}
+
+.dashboardbuttons h4 {
+    font-size: 2em;
+    line-height: 1.0em;
+    margin: 0 0 10px 0;
+    font-weight: normal;
+    color: #8cc63f
+}
+
+#messages {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    text-align: left
+}
+
+#messages ul {
+    padding: 10px
+}
+
+.info, .success, .warning, .error, .validation {
+    border: 1px solid;
+    margin: 10px 0;
+    padding: 15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    font-size: 1em
+}
+
+.error {
+    color: #d8000c;
+    background-color: #ffbaba
+}
+
+.info {
+    color: #00529b;
+    background-color: #bde5f8
+}
+
+.success {
+    color: #4f8a10;
+    background-color: #dff2bf
+}
+
+.warning {
+    color: #9f6000;
+    background-color: #feefb3
+}
+
+.question-container {
+    margin-left: 260px
+}
+
+.ui-autocomplete li {
+    list-style-type: none
+}
+
+.publication p {
+    margin-left: 20px;
+    font-size: 14px
+}
+
+.publication img {
+    float: left
+}
+
+.publication strong {
+    color: #0093d1;
+    font-size: 16px
+}
+
+#authorPosition {
+    font-size: 13px
+}
