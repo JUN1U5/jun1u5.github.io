@@ -56,7 +56,11 @@
           ['US-WY', 0.10%]
         ]);
 
-        var options = {'region':'US','resolution':'provinces'};
+        var options = {
+          'region':'US',
+          'resolution':'provinces',
+          sizeAxis: { minValue: 0, maxValue: 100 }
+          };
 
         var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
         chart.draw(data, options);
