@@ -7,9 +7,12 @@
 
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
-          ['County', 'Drink'],
-          ['Transylvania County', 'Oskar Blues Brewery']
+          ['County', 'Drink', 'In County?'],
+          ['Transylvania County', 'Oskar Blues Brewery', 2]
+          ['Durham County', 'Test', 1]
         ]);
+
+<!--1 means it was enjoyed in the county of origin-->
 
         var options = {
           'region':'US-NC',
