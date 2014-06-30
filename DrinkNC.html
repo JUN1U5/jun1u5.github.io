@@ -7,12 +7,14 @@
 
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
-          ['Province', 'Editors'],
+          ['County', 'Drink'],
+          ['Transylvania County', 'Oskar Blues Brewery']
         ]);
 
         var options = {
           'region':'US-NC',
-          'resolution':'metros',
+          'resolution':'provinces',
+          'displayMode': 'markers',
           };
 
         var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
