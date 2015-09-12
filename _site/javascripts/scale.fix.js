@@ -15,15 +15,3 @@ function gestureStart() {
     }
   }
 }
-
-// night-time css switch follows
-
-var currentDate = new Date();
-var currentMinute = (currentDate.getHours()  * 60) + currentDate.getMinutes();
-
-if (60 <= currentMinute&&currentMinute < 300) {
-  document.write("<link rel='stylesheet' href='night.css' type='text/css'>");
-}
-if (300 <= currentMinute&&currentMinute < 60) {
-  document.write("<link rel='stylesheet' href='styles.css' type='text/css'>");
-}
