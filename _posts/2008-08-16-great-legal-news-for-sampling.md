@@ -7,7 +7,7 @@ title: Great Legal News for the Art of Sampling
 
 - - -
 
-Great news for those of you who love to sample and love sample-heavy hip-hop from DJ Shadow to the Alchemist, from Ghostface to Kanye! The sample-stifling precedent of [Bridgeport Music v. Dimension Films](http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films) has been [rejected by the New York Supreme Court](http://lessig.org/mt/mt-tb.cgi/2256).  
+Great news for those of you who love sample-heavy hip-hop from DJ Shadow to the Alchemist, from Ghostface to Kanye! The sample-stifling precedent of [Bridgeport Music v. Dimension Films](http://en.wikipedia.org/wiki/Bridgeport_Music_Inc._v._Dimension_Films) has been [rejected by the New York Supreme Court](http://lessig.org/mt/mt-tb.cgi/2256).  
   
 In 2005, after a federal judge found that a two-second Funkadelic guitar chord used (without permission or compensation) in NWA's ["100 Miles and Runnin"](http://www.youtube.com/watch?v=B6YOq2xn3k4) did not violate copyright law, an appeals court reversed the decision. Barely concealing its contempt for hip-hop, [the court ordered](http://www.usatoday.com/tech/news/techpolicy/2004-09-08-sampling-ruling_x.htm): "Get a license or do not sample. We do not see this as stifling creativity in any significant way."  
   
