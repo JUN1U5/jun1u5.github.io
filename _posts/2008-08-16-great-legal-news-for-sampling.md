@@ -15,8 +15,9 @@ More recently, [Yoko Ono attempted to block the "intelligent design" film _Expel
   
 By the way, even more unsettling details have been exposed about Bridgeport. Apparently, the music corporation is simply one man, a notorious "sample troll" who brings [suit after suit](http://hiphoparchive.org/thecircle/2006/12/01/jay-z-versus-the-sample-troll/) in order to extort money from old rights. What's more? [George Clinton has explained that his signature was forged by Bridgeport on many of the contracts](http://www.techdirt.com/blog.php?company=bridgeport) for Funkdelic's songs, including ["Get Off your Ass and Jam"](http://www.youtube.com/watch?v=siLtUWq0xio) (the track in the NWA case).  
   
-Further weekend reading:  
+Further weekend reading:
+
 * [Short legal explanation](http://cyberlaw.stanford.edu/node/5833) of the decision from Stanford law professor, Anthony Falzone.
-* ["The shady one-man corporation that's destroying hip-hop"](http://www.slate.com/id/2153961/), great piece on Slate.com, explaining "the sample troll" and the importance of sampling in hip-hop)
-* DJ Spooky on ["Sampling and the Creative Act"](http://www.realitysandwich.com/in_through_out_door_sampling_and_creative_act)
+* ["The shady one-man corporation that's destroying hip-hop"](http://www.slate.com/id/2153961/), great piece on Slate.com, explaining "the sample troll" and the importance of sampling in hip-hop.
+* DJ Spooky on ["Sampling and the Creative Act"](http://www.realitysandwich.com/in_through_out_door_sampling_and_creative_act).
 * 9th Wonder on the [art of sampling, via Duke University](http://www.youtube.com/embed/YLg5qwfhHnA).
