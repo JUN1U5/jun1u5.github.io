@@ -3,7 +3,7 @@ layout: post
 title: Great Legal News for the Art of Sampling
 ---
 
-*This post was resurrected from a defunct music blog I worked on from 2008-2010. Despite the temporary hope of the court ruling, the case hasn't been influential in bolstering fair use, and sampling in hip-hop has only become more endangered. Recently, on the 25th anniversary of * 3 Feet High and Rising*, De La Soul [gave away their complete back catalog](http://www.businessweek.com/articles/2014-02-14/why-de-la-soul-is-giving-away-all-of-its-music-for-free) due in large part to Prince Paul's brilliant -- but legally nebulous -- sampling.*
+*This post was resurrected from a defunct music blog I worked on from 2008-2010. Despite the temporary hope of the court ruling, the case hasn't been influential in bolstering fair use, and sampling in hip-hop has only become more endangered. Recently, on the 25th anniversary of 3 Feet High and Rising, De La Soul [gave away their complete back catalog](http://www.businessweek.com/articles/2014-02-14/why-de-la-soul-is-giving-away-all-of-its-music-for-free) due in large part to Prince Paul's brilliant -- but legally nebulous -- sampling.*
 
 - - -
 
