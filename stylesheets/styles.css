@@ -21,6 +21,10 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+p #center{
+text-align:center;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -67,7 +71,7 @@ blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
-  font-style:italic;
+  font-style:normal;
 }
 
 code, pre {
