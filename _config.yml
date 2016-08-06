@@ -1,5 +1,4 @@
 permalink: /blog/:year/:month/:day/:title
-pygments: false
 highlighter: rouge
 markdown: kramdown
 exclude:
