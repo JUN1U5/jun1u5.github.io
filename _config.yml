@@ -1,5 +1,6 @@
 permalink: /blog/:year/:month/:day/:title
-pygments: true
+pygments: false
+highlighter: rouge
 markdown: kramdown
 exclude:
 - README.md
