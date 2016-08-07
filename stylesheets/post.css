@@ -16,6 +16,13 @@ body {
   font-weight: 400;
   font-size: 25px; }
 
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:normal;
+}
+
 #content {
   width: 600px;
   margin: 0 auto; }
