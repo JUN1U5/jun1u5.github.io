@@ -295,6 +295,24 @@ footer {
   }
 }
 
+.read-more {
+    background-color: #2980b9;
+    border: 1px solid #3498db;
+    box-shadow: inset 0 0 5px #3498db;
+    color: #ecf0f1;
+    display: inline-block;
+    font-size: 13px; 
+    line-height: 1.2;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.read-more:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
 /* Star Rating */
 
 .starRate {position:relative; margin:20px; overflow:hidden; zoom:1;}
