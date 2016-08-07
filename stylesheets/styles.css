@@ -305,6 +305,13 @@ footer {
   line-height:36px;
   border:1px solid #e2e2e2;
   font-size:13px;
+  background-color: #b5cce3;
+  float: right;
+}
+
+.read-more:hover {
+    background-color: #3498db;
+    color: #fff;
 }
 
 /* Star Rating */
