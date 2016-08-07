@@ -7,8 +7,21 @@ title: Coffee Shop Photojournal
 <h1>Coffee Shop Photojournal</h1>
 <p>My attempt to play around with <a href="http://masonry.desandro.com/">Masonry</a> and JQuery while documenting visits to independent coffee shops!</p>
 
-<script src="/javascripts/masonry.pkgd.min.js">
 
+<div id="masonry-grid">
+    <div class="gutter-sizer"></div>
+    <div class="grid-item">
+      <img src="images/coffeeshops/2016-08-04_asheboro_ig.jpg" alt="asheboro ig">
+    </div>
+    <div class="grid-item">
+      <img src="images/coffeeshops/2016-08-04_asheboro.jpg" alt="asheboro">
+    </div>
+    <div class="grid-item"></div>
+</div>
+
+<script src="javascripts/masonry.pkgd.min.js"></script>
+
+<script>
 // jQuery
 var $container = jQuery('#masonry-grid');
 // initialize
@@ -16,16 +29,6 @@ $container.masonry({
   columnWidth: 200,
   itemSelector: '.grid-item'
 });
-
 </script>
 
-<div id="masonry-grid">
-    <div class="gutter-sizer"></div>
-    <div class="grid-item">
-      <img src="images/coffeeshops/2016-08-04_asheboro_ig.jpg">
-    </div>
-    <div class="grid-item">
-      <img src="images/coffeeshops/2016-08-04_asheboro.jpg">
-    </div>
-    <div class="grid-item"></div>
-</div>
+</section>
