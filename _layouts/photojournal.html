@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="stylesheets/pygment_trac.css">
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <link rel="stylesheet" type="text/css" href="/js/fancybox-1.3.4/jquery.fancybox-1.3.4.css" media="screen" />
-  
+
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <!--[if lt IE 9]>
  -    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -30,7 +30,7 @@
        {{ content }}
 
       <footer>
-        <p><a href="http://twitter.com/JUN1U5"><img src="http://icons.iconarchive.com/icons/designbolts/flat-social-media/64/Twitter-icon.png"></a>
+<p><a href="http://twitter.com/JUN1U5"><img src="http://icons.iconarchive.com/icons/designbolts/flat-social-media/64/Twitter-icon.png"></a>
 <a href="http://www.linkedin.com/in/brandonjernigan"> <img src="http://icons.iconarchive.com/icons/designbolts/flat-social-media/64/Linkedin-icon.png"></a>
 <a href="https://www.instagram.com/jun1u5/"><img src="http://icons.iconarchive.com/icons/designbolts/flat-social-media/64/Instagram-icon.png"></a>
 <a href="https://github.com/JUN1U5/"><img src="http://icons.iconarchive.com/icons/designbolts/flat-social-media/64/Github-icon.png"></a></p>
@@ -55,6 +55,53 @@ Theme adapted from <a href="https://github.com/orderedlist">orderedlist</a> &amp
 </script>
 <!-- end google analytics -->
 
+<!-- Masonry -->
+ <script src="javascripts/masonry.pkgd.min.js"></script>
+ <script>
+ // jQuery
+ var $container = jQuery('#masonry-grid');
+ // initialize
+ $container.masonry({
+   columnWidth: 200,
+   itemSelector: '.grid-item'
+ });
+</script>
+
+<!-- Fancybox -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.mousewheel-3.0.4.pack.js"></script>
+
+<script>
+$(document).ready(function() {
+
+
+	$("a#single_image").fancybox({
+      'titlePosition' : 'inside',
+      'transitionIn'	: 'elastic',
+		  'transitionOut'	: 'elastic',
+		  'easingIn'      : 'easeOutBack',
+		  'easingOut'     : 'easeInBack'
+   });
+
+   /* Using custom settings */
+
+ 	$("a#inline").fancybox({
+ 		'hideOnContentClick': true
+ 	});
+
+ 	/* Apply fancybox to multiple items */
+
+ 	$("a.group").fancybox({
+ 		'transitionIn'	:	'elastic',
+ 		'transitionOut'	:	'elastic',
+ 		'speedIn'		:	600,
+ 		'speedOut'		:	200,
+ 		'overlayShow'	:	false
+ 	});
+
+ });
+ </script>
 
 
   </body>
