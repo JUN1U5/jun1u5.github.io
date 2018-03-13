@@ -45,24 +45,24 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#fee0f1;
+  color:#fdf2bb;
   font-weight:400;
   text-decoration:none;
 }
 
 a:hover {
-  color:#fdf2bb;
+  color:#c1fee6;
 }
 
 a small {
   font-size:11px;
-  color:#fee0f1;
+  color:#fdf2bb;
   margin-top:-0.6em;
   display:block;
 }
 
 a:hover small {
-  color:#fdf2bb;
+  color:#c1fee6;
 }
 
 .wrapper {
