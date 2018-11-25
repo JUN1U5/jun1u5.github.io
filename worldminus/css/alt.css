@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+}
+body {
+    background: #343dbd;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'VT323', monospace;
+    font-size: 22px;
+    color: white;
+}
+
+img {
+    width: 25%;
+    height: auto;
+    align-items: center;
+    border-radius: 5px;
+}
+
+section {
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+section2 {
+    background:blue;
+    float:right;
+    height:40px;
+}
+
+.boxed {
+  border: 2px double #d94b8b ;
+  border-radius: 1em;
+  padding: 1em;
+  position: absolute;
+  top: 75%;
+  left: 10%;
+}
+
+.boxed2 {
+  border: 2px double #d94b8b ;
+  border-radius: 1em;
+  padding: 1em;
+  position: absolute;
+  top: 75%;
+  left: 10%;
+}
+
+#grad1 {
+    height: 200px;
+    background: #1a103d; /* For browsers that do not support gradients */
+    background: repeating-linear-gradient(#1a103d, #1a103d 10px, #343dbd 10px, #2a2c2c 10px); /* Standard syntax (must be last) */
+}
+
+#grad2 {
+background:
+  /* On "top" */
+  repeating-linear-gradient(
+    transparent,
+    transparent 3px,
+    #1a103d 3px,
+    #343dbd 5px
+  ),
+  /* on "bottom" */
+  linear-gradient(
+    to bottom,
+    #1a103d,
+    #343dbd
+  );
+}
+
+div.vertical-line{
+    width: 2px; /* Line width */
+    background-color: #d94b8b; /* Line color */
+    height: 100%; /* Override in-line if you want specific height. */
+    float: left; /* Causes the line to float to left of content.
+      You can instead use position:absolute or display:inline-block
+      if this fits better with your design */
+    padding-right: 20px;
+  }

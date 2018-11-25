@@ -129,3 +129,8 @@ blockquote {
   .site .title a.extra:hover {
     color: black;
   }
+  
+  img[alt=blogphoto] {
+    width: 100%;
+    height: auto;
+  }
