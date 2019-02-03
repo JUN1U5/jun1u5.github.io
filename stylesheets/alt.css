@@ -324,10 +324,9 @@ footer {
 
 /* fluid 5 columns */
 .grid-sizer,
-.grid-item { width: 20%; }
+.grid-item { width: 200px; }
 /* 2 columns */
-.grid-item--width2 { width: 40%; }
-
+.grid-item--width2 { width: 400px; }
 
 /* The sidebar menu */
 .sidegif {
