@@ -431,9 +431,8 @@ footer {
 .icon-button .icon-github {
 	color: #333;
 }
-
 .icon-button:hover .icon-twitter,
-.icon-button:hover .icon-linnkedin,
+.icon-button:hover .icon-linkedin,
 .icon-button:hover .icon-instagram,
 .icon-button:hover .icon-github {
 	color: white;
