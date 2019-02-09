@@ -349,91 +349,77 @@ footer {
     width: 160px; /* Set the width */
 }
 
+/* social media icons */
 
-/* --- icon buttons --- */
-.icon-button {
-	background-color: white;
-	border-radius: 3.6rem;
-	cursor: pointer;
-	display: inline-block;
-	font-size: 2.0rem;
-	height: 3.6rem;
-	line-height: 3.6rem;
-	margin: 0 5px;
-	position: relative;
-	text-align: center;
-	-webkit-user-select: none;
-	   -moz-user-select: none;
-	    -ms-user-select: none;
-	        user-select: none;
-	width: 3.6rem;
+ul {
+    padding:0;
+    list-style: none;
 }
-
-/* Circle */
-.icon-button span {
-	border-radius: 0;
-	display: block;
-	height: 0;
-	left: 50%;
-	margin: 0;
-	position: absolute;
-	top: 50%;
-	-webkit-transition: all 0.3s;
-	   -moz-transition: all 0.3s;
-	     -o-transition: all 0.3s;
-	        transition: all 0.3s;
-	width: 0;
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
 }
-.icon-button:hover span {
-	width: 3.6rem;
-	height: 3.6rem;
-	border-radius: 3.6rem;
-	margin: -1.8rem;
+.social-icon {
+    color: #fff;
 }
-.twitter span {
-	background-color: #4099ff;
+ul.social-icons {
+    margin-top: 10px;
 }
-.instagram span {
-	background-color: #8a3ab9;
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
 }
-.linkedin span {
-	background-color: #007bb5;
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
 }
-.github span {
-  background-color: #333;
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #846b83;
 }
-
-/* Icons */
-.icon-button i {
-	background: none;
-	color: white;
-	height: 3.6rem;
-	left: 0;
-	line-height: 3.6rem;
-	position: absolute;
-	top: 0;
-	-webkit-transition: all 0.3s;
-	   -moz-transition: all 0.3s;
-	     -o-transition: all 0.3s;
-	        transition: all 0.3s;
-	width: 3.6rem;
-	z-index: 10;
+.fa-twitter:hover {
+    background-color: #00aced;
 }
-.icon-button .icon-twitter {
-	color: #4099ff;
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #846b83;
 }
-.icon-button .icon-linkedin {
-	color: #007bb5;
+.fa-github:hover {
+    background-color: #6e5494;
 }
-.icon-button .icon-instagram {
-	color: #8a3ab9;
+.fa-instagram {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #846b83;
 }
-.icon-button .icon-github {
-	color: #333;
+.fa-instagram:hover {
+    background-color: #c13584;
 }
-.icon-button:hover .icon-twitter,
-.icon-button:hover .icon-linkedin,
-.icon-button:hover .icon-instagram,
-.icon-button:hover .icon-github {
-	color: white;
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #846b83;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
 }
