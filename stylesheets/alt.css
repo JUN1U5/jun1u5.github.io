@@ -265,6 +265,12 @@ footer {
     right:50px;
     top:52px;
   }
+
+  .icon-bar {
+      position: static;
+      display: inline-flex;
+      margin-top: 20px;
+    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -335,18 +341,6 @@ footer {
 .grid-item img {
   display: block;
   width: 100%;
-}
-
-
-/* The sidebar menu */
-.sidegif {
-    position: fixed; /* Fixed (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    bottom: 0; /* Stay at the bottom */
-    left: 0;
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding: 0px 0px 30px 20px;
-    width: 160px; /* Set the width */
 }
 
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
