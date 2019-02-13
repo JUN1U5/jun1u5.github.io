@@ -78,8 +78,8 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
-  color:#fff;
+  font-family:'Space Mono', monospace;
+  color:#000;
   font-size:12px;
 }
 
@@ -87,7 +87,7 @@ pre {
   padding:8px 15px;
   background: #fff;
   border-radius:5px;
-  border:1px solid #fff;
+  border:1px solid #000;
   overflow-x: auto;
 }
 
