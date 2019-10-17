@@ -12,9 +12,9 @@ html {
 body {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: #fff;
+/*  background-color: #fff; */
   font-family: 'Source Sans Pro', sans-serif;
-  color: #1a1b24;
+/*  color: #1a1b24; */
 }
 
 a {
@@ -26,7 +26,7 @@ a:hover {
 }
 
 h1 {
-  color: black;
+/*  color: black; */
   font-weight: lighter;
   font-size: 400%;
 }
@@ -247,7 +247,7 @@ div.new i{
 
 #dark {
   padding-top: 20px;
-  background-color: #2e484e;
+  background-color: #343a40;
   min-height: 300px;
   width: 100%;
   color: #fff;
@@ -327,6 +327,15 @@ div.new i{
     column-count: 5;
   }
 }
+
+
+/* styles.css */
+
+.react-switch {
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
 
 /*
 .speech-bubble {
