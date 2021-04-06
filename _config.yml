@@ -1,10 +1,14 @@
-name: Brandon Jernigan, PhD
-description: I hold a Ph.D. in English from the University of Illinois, where I studied 19th- and 20th-century British and Irish literature. Currently, I work at Research Square, a for-benefit company dedicated to improving the ongoing cycle of research, publishing, and discovery. I’m an avid supporter of Open Science and Free Culture.
-author: Brandon Jernigan
+locale: "en-US"
+title:  "Brandon Jernigan, PhD"
+title_separator: "-"
+name: &name "Brandon Jernigan, PhD"
+description: &description "Homepage for Brandon Jernigan"
+url:  https://jun1u5.github.io
+author:
+  name: "Brandon Jernigan"
 twitter:
   username: JUN1U5
 social:
-  name: Brandon Jernigan
   links:
     - https://twitter.com/JUN1U5
     - http://www.linkedin.com/in/brandonjernigan
