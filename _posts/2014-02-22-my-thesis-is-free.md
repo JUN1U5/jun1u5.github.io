@@ -3,6 +3,9 @@ layout: post
 title: Don't Print My Free Thesis!
 ---
 
+{{ page.title }}
+================
+
 Inspired by [Eva Amsen's response to Scholars' Press](http://easternblot.net/2013/09/06/please-do-not-publish-my-thesis/), I responded as follows. Additional background on the VDM conglomerate [here](http://en.wikipedia.org/wiki/VDM_Publishing) and [here](http://scholarlyoa.com/2012/11/05/lambert-academic-publishing-a-must-to-avoid/).
 
 * * *
