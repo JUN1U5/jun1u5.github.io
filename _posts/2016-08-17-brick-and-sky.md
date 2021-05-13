@@ -3,7 +3,7 @@ layout: post
 title: Brick and Sky
 ---
 
-{{ page.title }}
+{{ post.title }}
 ================
 
 ![blogphoto](/images/blog/brickandsky.jpg)
