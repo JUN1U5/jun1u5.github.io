@@ -3,6 +3,9 @@ layout: post
 title: Great Legal News for the Art of Sampling
 ---
 
+{{ page.title }}
+================
+
 *This post was resurrected from a defunct music blog I worked on from 2008-2010. Despite the temporary hope of the court ruling, the case hasn't been influential in bolstering fair use, and sampling in hip-hop has only become more endangered. Recently, on the 25th anniversary of 3 Feet High and Rising, De La Soul [gave away their complete back catalog](http://www.businessweek.com/articles/2014-02-14/why-de-la-soul-is-giving-away-all-of-its-music-for-free) due in large part to Prince Paul's brilliant -- but legally nebulous -- sampling.*
 
 - - -
@@ -13,7 +16,7 @@ In 2005, after a federal judge found that a two-second Funkadelic guitar chord u
   
 More recently, [Yoko Ono attempted to block the "intelligent design" film _Expelled: No Intelligence_](http://www.reuters.com/article/entertainmentNews/idUSN2320158220080423) because it contained 15 seconds of Lennon's "Imagine." In defense of the straightforward usage of Lennon's song in the film, the court rejected the Bridgeport/NWA precedent, which had previously held that any sampling of music -- no matter how minimal -- violated copyright law.
   
-By the way, even more unsettling details have been exposed about Bridgeport. Apparently, the music corporation is simply one man, a notorious "sample troll" who brings [suit after suit](http://hiphoparchive.org/thecircle/2006/12/01/jay-z-versus-the-sample-troll/) in order to extort money from old rights. What's more? [George Clinton has explained that his signature was forged by Bridgeport on many of the contracts](http://www.techdirt.com/blog.php?company=bridgeport) for Funkdelic's songs, including ["Get Off your Ass and Jam"](http://www.youtube.com/watch?v=siLtUWq0xio) (the track in the NWA case).  
+By the way, even more unsettling details have been exposed about Bridgeport. Apparently, the music corporation is simply one man, a notorious "sample troll" who brings [suit after suit](http://hiphoparchive.org/thecircle/2006/12/01/jay-z-versus-the-sample-troll/) in order to extort money from old rights. What's more? [George Clinton has explained that his signature was forged by Bridgeport on many of the contracts](http://www.techdirt.com/blog.php?company=bridgeport) for Funkadelic's songs, including ["Get Off your Ass and Jam"](http://www.youtube.com/watch?v=siLtUWq0xio) (the track in the NWA case).  
   
 Further weekend reading:
 
