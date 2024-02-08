@@ -12,17 +12,11 @@ html {
 body {
   background-repeat: no-repeat;
   background-attachment: fixed;
-/*  background-color: #fff; */
   font-family: 'Source Sans Pro', sans-serif;
-/*  color: #1a1b24; */
-}
-
-a {
-
-}
-
-a:hover {
-
+  font-size: calc(10vw + .5rem);
+  line-height: 1.5em;
+  font-weight: 400;
+  color: #100d0f;
 }
 
 h1 {
@@ -32,22 +26,7 @@ h1 {
 }
 
 h2 {
-  color: #CEC05A;
-  font-weight:lighter;
-  font-size:150%;
-}
-
-h5 {
-  color: #1a1b24;
-  font-size:150%;
-}
-
-h5 a{
-  color: #1a1b24;
-}
-
-h5 a:hover{
-  color: #hotpink;
+  font-size:small;
 }
 
 img {
@@ -59,6 +38,16 @@ img {
 
 p {
   font-size:1em;
+}
+
+.label {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 200;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #100d0f;
 }
 
 section2 {
@@ -286,47 +275,6 @@ div.new i{
      -moz-transition-duration: 0.5s;
      -o-transition-duration: 0.5s;
  }
-
-/* bootstrap */
-/* Extra small devices (phones, less than 768px) */
-/* No media query since this is the default in Bootstrap */
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { ... }
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { ... }
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { ... }
-
-/* responsive type */
-@include media-breakpoint-up(sm) {
-  html {
-    font-size: 1.2rem;
-  }
-}
-
-@include media-breakpoint-up(md) {
-  html {
-    font-size: 1.4rem;
-  }
-}
-
-@include media-breakpoint-up(lg) {
-  html {
-    font-size: 1.6rem;
-  }
-}
-
-.card-columns {
-  @include media-breakpoint-only(lg) {
-    column-count: 4;
-  }
-  @include media-breakpoint-only(xl) {
-    column-count: 5;
-  }
-}
 
 
 /* styles.css */
