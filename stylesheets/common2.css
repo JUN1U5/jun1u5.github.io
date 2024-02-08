@@ -213,6 +213,10 @@ button {
   color:#fff;
 }
 
+.highlight {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #fab4fc 50%);
+}
+
 /* styles.css */
 
 .react-switch {
