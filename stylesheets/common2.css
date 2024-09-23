@@ -11,7 +11,7 @@ body {
   line-height: 1.5em;
   font-weight: 400;
   color: #100d0f;
-  background-image: url(/Users/brandonjernigan/Documents/GitHub/jun1u5.github.io/images/2024bweb.png);
+  background-image: url('/images/2024bweb.png');
   background-size: cover;
   height: 100 vh;
   background-color: #fbf8fb;
